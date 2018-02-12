@@ -1,4 +1,4 @@
-## Solutions to coding challenges inspired by Gulf Programming Contest 2011
+## Solutions to coding challenges from Gulf Programming Contest 2011
 
 ### Problems uploaded (or to be uploaded)
 1. Battle of Gondor
