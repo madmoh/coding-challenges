@@ -3,9 +3,9 @@
 ### Problems uploaded (or to be uploaded)
 1. [Battle of Gondor](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/gondor)
 2. [The Cavalier Number Maze](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/maze)
-3. Period of Highest Profit
-4. Number of Coin Combinations
-5. Perfect Roads
+3. [Period of Highest Profit](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/profit)
+4. [Number of Coin Combinations](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/money)
+5. [Perfect Roads](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/perfect)
 6. TBA
 7. TBA
 8. TBA
