@@ -1,6 +1,6 @@
 ## Solutions to coding challenges from Gulf Programming Contest 2011
 
-### Problems uploaded
+### Problems
 1. [Battle of Gondor](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/gondor)
 2. [The Cavalier Number Maze](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/maze)
 3. [Period of Highest Profit](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/profit)
