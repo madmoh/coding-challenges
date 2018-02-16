@@ -10,4 +10,4 @@
 7. [-1 +i Representation](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/i1rep)
 8. [Pineapple Pyramid](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/pyramid)
 9. [16 Beads Game](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/beads)
-10. Knight's Game
+10. [Knight's Game](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/knight)
