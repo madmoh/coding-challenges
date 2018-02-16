@@ -6,8 +6,8 @@
 3. [Period of Highest Profit](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/profit)
 4. [Number of Coin Combinations](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/money)
 5. [Perfect Roads](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/perfect)
-6. TBA
-7. TBA
-8. TBA
-9. TBA
-10. TBA
+6. [Neighboring Letters Puzzle](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/puzzle)
+7. [-1 +i Representation](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/i1rep)
+8. [Pineapple Pyramid](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/pyramid)
+9. [16 Beads Game](https://github.com/madmoh/coding-challenges/tree/master/GPC2011/beads)
+10. Knight's Game
